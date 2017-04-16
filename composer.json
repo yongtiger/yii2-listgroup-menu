@@ -1,6 +1,6 @@
 {
     "name": "yongtiger/yii2-listgroup-menu",
-    "description": "multi-level list group menu",
+    "description": "Yii2 doc multi-level list group menu.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","menu","listgroup"],
     "license": "MIT",
